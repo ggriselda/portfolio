@@ -1956,3 +1956,10 @@ blockquote {
     left: -25px; } }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* video-demo */
+
+.video-demo video {
+  width: 100%;
+}
